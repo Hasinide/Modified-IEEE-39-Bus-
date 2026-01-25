@@ -16,10 +16,17 @@ The contents of this repository enable the construction and analysis of a networ
 | Diagrams | Droop control diagram for GFM | Active and reactive power droop control structure |
 
 
-
+The GFM droop control model for the BESS plant is based on the Technical reference of DIgSILENT Grid-forming Converter Templates[3].
+The EMT model for GFL PV plant is based on DIgSILENT Powerfactory Technical Reference for the PV Systems [4].
 
 References
 
-[1] DIgSILENT PowerFactory: "39 Bus New England System", 2024
+[1] DIgSILENT PowerFactory: "39 Bus New England System", 2024.
 
-[2] M. A. Pai: “Energy Function Analysis for Power System Stability”, Kluwer Academic Publishers, Boston/Dordrecht/London, 1989, ISBN: 0-7923- 9035-0, ISBN-13: 978-1-4612-8903-6
+[2] M. A. Pai: “Energy Function Analysis for Power System Stability”, Kluwer Academic Publishers, Boston/Dordrecht/London, 1989, ISBN: 0-7923- 9035-0, ISBN-13: 978-1-4612-8903-6.
+
+[3] DIgSILENT PowerFactory 2024, "Technical Reference-DIgSILENT Grid-forming Converter Templates (Droop Controlled Converter, Synchronverter, Virtual Synchronous Machine)",2024.
+
+[4] Technical Reference PV System. Heinrich-Hertz-Strasse 9, 72810 Gomaringen / Germany, 2019.
+
+
