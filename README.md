@@ -23,7 +23,7 @@ References
 
 [1] DIgSILENT PowerFactory: "39 Bus New England System", 2024.
 
-[2] M. A. Pai: “Energy Function Analysis for Power System Stability”, Kluwer Academic Publishers, Boston/Dordrecht/London, 1989, ISBN: 0-7923- 9035-0, ISBN-13: 978-1-4612-8903-6.
+[2] Working Group C4.503, "Power System Test Cases for EMT-Type Simulation Studies," 2018. [Online] Available: https://www.e-cigre.org/publications/detail/736-power-system-test-cases-for-emt-type-simulation-studies.html 
 
 [3] DIgSILENT PowerFactory 2024, "Technical Reference-DIgSILENT Grid-forming Converter Templates (Droop Controlled Converter, Synchronverter, Virtual Synchronous Machine)",2024.
 
