@@ -21,4 +21,5 @@ The contents of this repository enable the construction and analysis of a networ
 References
 
 [1] DIgSILENT PowerFactory: "39 Bus New England System", 2024
+
 [2] M. A. Pai: “Energy Function Analysis for Power System Stability”, Kluwer Academic Publishers, Boston/Dordrecht/London, 1989, ISBN: 0-7923- 9035-0, ISBN-13: 978-1-4612-8903-6
