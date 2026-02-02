@@ -12,9 +12,9 @@ The contents of this repository enable the construction and analysis of a networ
 | Network model data | Transmission line models | Line conductor types and modelling approaches |
 | Network model data | Transmission line data | Transmission line impedance data |
 | Diagrams | Overall detailed SLD | Complete system single-line diagram |
-| Diagrams | Control block diagram for GFMI | Control structure of grid-forming inverter |
-| Diagrams | Droop control diagram for GFM | Active and reactive power droop control structure |
-
+| Diagrams | Control block diagram for GFLI | Control structure of PV GFL and PV plant block diagram |
+| Diagrams | Droop control diagram for GFMI | Active and reactive power droop control structure |
+| Diagrams | VSM control diagram for GFMI | VSM control diagram |
 
 The GFM droop control model for the BESS plant is based on the Technical reference of DIgSILENT Grid-forming Converter Templates[3].
 The EMT model for GFL PV plant is based on DIgSILENT Powerfactory Technical Reference for the PV Systems [4].
